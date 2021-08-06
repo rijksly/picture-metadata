@@ -1,6 +1,6 @@
 # Metadata extractor from pictures
 
-Script that extracts metadata a picture.
+Script that extracts metadata from a picture.
 
 ## Installation
 
