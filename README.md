@@ -1,15 +1,22 @@
 # Metadata extractor from pictures
 
-Extracts metadata from a pictures.
+Script that extracts metadata a picture.
 
-## Dependencies
+## Installation
 
-1. Python 3.x
+1. Install Python 3.x
+2. Clone this repository:
 
-2. PIL (https://pypi.org/project/Pillow/)
+        git clone https://github.com/rijksly/picture-metadata
+
+3. Go to the folder:
+
+        cd picture-metadata
+
+4. Install PIL:
+
+        pip install Pillow
 
 ## Usage
 
-Type in command line:
-
-    python metadata.py /path/to/file.jpg
+    python metadata.py /path/to/picture.jpg
